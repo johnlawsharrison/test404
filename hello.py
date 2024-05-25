@@ -3,4 +3,5 @@ hello
 
 Description:
 """
-print('hello.py')
+for i in range(6):
+    print('Hello')
